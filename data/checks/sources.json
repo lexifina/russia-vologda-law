@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-vologda",
+   "kind": "legislation",
+   "name": {
+    "en": "Vologda Oblast: Official Internet Portal of Legal Information (region35)",
+    "ru": "Vologda Oblast: Официальный интернет-портал правовой информации (region35)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region35",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/vologda/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-vologda-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
