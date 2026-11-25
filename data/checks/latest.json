@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:04:30Z",
+ "generated": "2026-11-25T07:03:50Z",
  "latest": {
   "pravo-vologda|russia/vologda/acts": {
    "attempt": 1,
@@ -13,62 +13,25 @@
    },
    "census": {
     "checked": 2631,
-    "current": 2599,
+    "current": 2631,
     "gone": 0,
-    "held": 2599,
-    "newest_in_repo": "2026-07-02",
-    "pending": 32,
-    "repo": 2599,
+    "held": 2631,
+    "newest_in_repo": "2026-11-16",
+    "pending": 0,
+    "repo": 2631,
     "source_in_scope": 2631
    },
-   "check_id": "ru-pravo-vologda-20261124T150218Z",
-   "commits": {
-    "count": 4,
-    "from": "1e902e4bc18109788bbd652e3662e64ce4f60e0f",
-    "to": "04fba886fb611ca24806f516679deafbb8e0c050"
-   },
+   "check_id": "ru-pravo-vologda-20261125T065137Z",
+   "commits": null,
    "corpus": "russia/vologda/acts",
    "error": null,
-   "finished": "2026-11-24T15:04:29Z",
+   "finished": "2026-11-25T06:53:35Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region35: 2631 law-type documents listed (every page read); 2599 held here; 32 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region35: 2631 law-type documents listed (every page read); 2631 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "3500202611120003",
-     "3500202611120004",
-     "3500202611120005",
-     "3500202611120006",
-     "3500202611120007",
-     "3500202611120008",
-     "3500202611120009",
-     "3500202611120010",
-     "3500202611120011",
-     "3500202611120012",
-     "3500202611120013",
-     "3500202611120014",
-     "3500202611120015",
-     "3500202611120016",
-     "3500202611130001",
-     "3500202611130011",
-     "3500202611130012",
-     "3500202611130013",
-     "3500202611130014",
-     "3500202611130015",
-     "3500202611130016",
-     "3500202611130017",
-     "3500202611130018",
-     "3500202611130019",
-     "3500202611130023",
-     "3500202611160004",
-     "3500202611160006",
-     "3500202611160007",
-     "3500202611160008",
-     "3500202611160009",
-     "3500202611160010",
-     "3500202611160011"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -76,59 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "3500202611120003",
-     "3500202611120004",
-     "3500202611120005",
-     "3500202611120006",
-     "3500202611120007",
-     "3500202611120008",
-     "3500202611120009",
-     "3500202611120010",
-     "3500202611120011",
-     "3500202611120012",
-     "3500202611120013",
-     "3500202611120014",
-     "3500202611120015",
-     "3500202611120016",
-     "3500202611130001",
-     "3500202611130011",
-     "3500202611130012",
-     "3500202611130013",
-     "3500202611130014",
-     "3500202611130015",
-     "3500202611130016",
-     "3500202611130017",
-     "3500202611130018",
-     "3500202611130019",
-     "3500202611130023",
-     "3500202611160004",
-     "3500202611160006",
-     "3500202611160007",
-     "3500202611160008",
-     "3500202611160009",
-     "3500202611160010",
-     "3500202611160011"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "2631 law-type documents in block region35; newest published 2026-11-16",
    "source": "pravo-vologda",
-   "started": "2026-11-24T15:02:18Z",
+   "started": "2026-11-25T06:51:37Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 3,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
