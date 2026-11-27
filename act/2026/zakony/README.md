@@ -1,6 +1,6 @@
 # Vologda Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 29 versions, from 2026-01-30 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region35>
+Законы 2026 · 30 versions, from 2026-01-30 (latest in force: 2026-11-26) · <http://publication.pravo.gov.ru/documents/block/region35>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -148,3 +148,4 @@
 | Закон № 6212-ОЗ | [6212-oz.md](6212-oz.md) | 1 | 2026-11-16 |
 | Закон № 6213-ОЗ | [6213-oz.md](6213-oz.md) | 1 | 2026-11-25 |
 | Закон № 6214-ОЗ | [6214-oz.md](6214-oz.md) | 1 | 2026-11-25 |
+| Закон № 6215-ОЗ | [6215-oz.md](6215-oz.md) | 1 | 2026-11-26 |
