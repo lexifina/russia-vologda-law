@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:12:55Z",
+ "generated": "2026-11-28T06:27:11Z",
  "latest": {
   "pravo-vologda|russia/vologda/acts": {
    "attempt": 1,
@@ -12,31 +12,31 @@
     "sampled": 2
    },
    "census": {
-    "checked": 2634,
-    "current": 2633,
+    "checked": 2635,
+    "current": 2634,
     "gone": 0,
-    "held": 2633,
-    "newest_in_repo": "2026-11-25",
+    "held": 2634,
+    "newest_in_repo": "2026-11-26",
     "pending": 1,
-    "repo": 2633,
-    "source_in_scope": 2634
+    "repo": 2634,
+    "source_in_scope": 2635
    },
-   "check_id": "ru-pravo-vologda-20261127T060238Z",
+   "check_id": "ru-pravo-vologda-20261128T061644Z",
    "commits": {
     "count": 2,
-    "from": "8df70c08616dff0fe53f9d474a78a59695db8b50",
-    "to": "d570d417d80ace3ba360fe6e6279931452af6b73"
+    "from": "c7441d81a4cc3c05e341ccb883a37ac5a63be427",
+    "to": "2230d7f33471d303c57642959bdb7ec95df145bb"
    },
    "corpus": "russia/vologda/acts",
    "error": null,
-   "finished": "2026-11-27T06:03:59Z",
+   "finished": "2026-11-28T06:18:11Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region35: 2634 law-type documents listed (every page read); 2633 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "note": "publication.pravo.gov.ru, block region35: 2635 law-type documents listed (every page read); 2634 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
    "outcome": "changed",
    "published": {
     "added": [
-     "3500202611260004"
+     "3500202611270004"
     ],
     "changed": [],
     "removed": []
@@ -46,14 +46,14 @@
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "3500202611260004"
+     "3500202611270004"
     ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2634 law-type documents in block region35; newest published 2026-11-26",
+   "snapshot": "2635 law-type documents in block region35; newest published 2026-11-27",
    "source": "pravo-vologda",
-   "started": "2026-11-27T06:02:38Z",
+   "started": "2026-11-28T06:16:44Z",
    "unexplained": 0,
    "update": {
     "append": {
@@ -65,7 +65,7 @@
      "new_acts": []
     },
     "parts": [
-     "95-watch-20261127-001.json"
+     "95-watch-20261128-001.json"
     ]
    },
    "verify": {
@@ -75,7 +75,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 12,
-    "versions_checked": 384,
+    "versions_checked": 385,
     "versions_differ": 0
    }
   }
