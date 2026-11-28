@@ -3544,12 +3544,21 @@
     },
     {
      "from": "2026-11-26",
-     "to": null,
-     "status": "as captured",
+     "to": "2026-11-26",
+     "status": "replaced",
      "text_as_of": null,
      "units": 145,
      "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region35",
      "sha256": "60e72d0eed16b7e2587e7e286fe2f843c60556831b3e8d65e298256fa2c0498c"
+    },
+    {
+     "from": "2026-11-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 146,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region35",
+     "sha256": "be900ec383ade0d421389f92894a340dde91e5900679f12ec8d459a01cd3c258"
     }
    ]
   }
